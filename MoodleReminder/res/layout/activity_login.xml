@@ -49,5 +49,15 @@
         android:layout_marginTop="48dp"
         android:layout_toRightOf="@+id/textView1"
         android:text="@string/login" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/button1"
+        android:layout_marginLeft="44dp"
+        android:layout_marginTop="82dp"
+        android:text="TextView" />
         
 </RelativeLayout>

@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">MoodleReminder</string>
-    <string name="hello_world">Hello World!</string>
+    <string name="welcome">Welcome to Moodle!!!!!!</string>
     <string name="title_activity_welcome">WelcomeActivity</string>
 	<string name="index">Index No</string>
 	<string name="password">Password</string>
